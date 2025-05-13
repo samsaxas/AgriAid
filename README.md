@@ -51,7 +51,8 @@ Deep Translator
 - For critical cases, consult a professional agronomist
 - Supported crops include tomatoes, potatoes, wheat, rice, and common vegetables
 
-# __________________________________________________________________________________________
+# ____________________________________________________________________________
+ 
 # OUTPUT
 
 ![image](https://github.com/user-attachments/assets/59365fb2-6553-4c31-871c-c105d62789f7)
@@ -78,6 +79,7 @@ Deep Translator
 
 ![image](https://github.com/user-attachments/assets/2ede25f4-ad77-4b54-8d49-0739de36499f)
 
+# ____________________________________________________________________________
 # App
 ![app1](https://github.com/user-attachments/assets/9a0437c9-efb7-4076-95b4-e462a0f5dc29)
 
