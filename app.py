@@ -9,7 +9,7 @@ from utils.gemini_audio import generate_speech, get_audio_download_link, get_aud
 
 # Import required libraries
 from datetime import datetime
-
+api_key = st.secrets["GEMINI_API_KEY"]
 # Streamlit setup
 st.set_page_config(
     page_title="AgriAid",
