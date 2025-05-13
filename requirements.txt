@@ -5,3 +5,5 @@ pydub
 google-generativeai
 googletrans
 speechrecognition
+langdetect
+deep-translator
