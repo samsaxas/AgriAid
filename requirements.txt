@@ -7,3 +7,4 @@ googletrans
 speechrecognition
 langdetect
 deep-translator
+gTTS
