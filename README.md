@@ -2,6 +2,7 @@
 
 ## Overview
 AgriAid is an AI-powered web application that helps farmers diagnose crop diseases and get treatment recommendations in multiple languages. The application uses Google's Gemini AI to analyze text descriptions, images, and audio recordings of plant issues.
+Streamlit app: https://agriaid.streamlit.app/
 
 ## Features
 **Multilingual Support**: Interface available in multiple languages including English, Hindi, Spanish, French, Tamil, Telugu, and Kannada
