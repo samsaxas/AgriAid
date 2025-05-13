@@ -58,25 +58,9 @@ Deep Translator
 
 ![image](https://github.com/user-attachments/assets/59365fb2-6553-4c31-871c-c105d62789f7)
 
-![image](https://github.com/user-attachments/assets/08c97a53-b5f4-4441-8727-06ea9276e84b)
-
-![image](https://github.com/user-attachments/assets/16c5ff10-4944-400f-9d99-4c31c1edb65f)
-
 ![image](https://github.com/user-attachments/assets/e41e077e-2057-4de7-bb7b-ca1b9eefe2e7)
 
-![image](https://github.com/user-attachments/assets/4bdf7c98-6065-4f37-a265-1a81f1d2ff9b)
-
-![image](https://github.com/user-attachments/assets/d6c89df1-c0ad-4d75-b23d-4ae97a24e02e)
-
 ![image](https://github.com/user-attachments/assets/5cebd2fb-ec6e-4c31-a777-d2ff6effd3f6)
-
-![image](https://github.com/user-attachments/assets/7a5ff059-3bc8-45d2-82c1-2e1c7546d30e)
-
-![image](https://github.com/user-attachments/assets/5ada9f1f-6e20-4ad3-94df-2bc6ab16bfc0)
-
-![image](https://github.com/user-attachments/assets/da21ff77-e958-40e1-940b-d5285d31869c)
-
-![image](https://github.com/user-attachments/assets/d4d035b7-09d6-408a-be18-ec0a18439981)
 
 ![image](https://github.com/user-attachments/assets/2ede25f4-ad77-4b54-8d49-0739de36499f)
 
