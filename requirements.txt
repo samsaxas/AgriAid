@@ -1,0 +1,7 @@
+streamlit
+Pillow
+python-dotenv
+pydub
+google-generativeai
+googletrans
+speechrecognition
