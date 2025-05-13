@@ -66,13 +66,8 @@ Deep Translator
 
 # ____________________________________________________________________________
 # App
-![app1](https://github.com/user-attachments/assets/9a0437c9-efb7-4076-95b4-e462a0f5dc29)
-
-![app2](https://github.com/user-attachments/assets/e70861b2-4236-4c6f-950d-752e3d045643)
 
 ![app3](https://github.com/user-attachments/assets/567b25d3-df2a-481e-ba68-292420586d1b)
-
-![app4](https://github.com/user-attachments/assets/73a972d3-387d-4daa-84aa-3297c8c78554)
 
 ![app5](https://github.com/user-attachments/assets/065e6c49-ea28-4c4f-b17e-afeee54fa5c4)
 
