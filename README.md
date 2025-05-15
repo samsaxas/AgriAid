@@ -6,12 +6,19 @@ Streamlit app: https://agriaid.streamlit.app/
 
 ## Features
 **Multilingual Support**: Interface available in multiple languages including English, Hindi, Spanish, French, Tamil, Telugu, and Kannada
+
 **Multiple Input Methods**:
+  
   Text descriptions of crop symptoms
+  
   Image uploads of affected plants
+ 
   Audio recordings describing the issues
+
 **AI-Powered Analysis**: Uses Google's Gemini AI to diagnose plant diseases and provide treatment recommendations
+
 **Audio Output**: Converts diagnosis results to speech for accessibility
+
 **Responsive Design**: Works on both desktop and mobile devices
 
 ## Requirements
